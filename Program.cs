@@ -5,16 +5,16 @@ class Program
 {
     static void Main()
     {
-        string connectionString = "Data Source=Computer_Software.db";
+        string connectionString = "Data Source=SalesComp.db";
 
         using SqliteConnection conn = new SqliteConnection(connectionString);
         conn.Open();
 
-        RunQuery(conn, "Computer");
-        RunQuery(conn, "Employee");
-        RunQuery(conn, "Package");
-        RunQuery(conn, "PC");
-        RunQuery(conn, "Software");
+        RunQuery(conn, "Customer");
+        RunQuery(conn, "Vendor");
+        RunQuery(conn, "Invoice");
+        RunQuery(conn, "Product");
+        RunQuery(conn, "Line");
     }
 
     static void RunQuery(SqliteConnection conn, string tableName)
