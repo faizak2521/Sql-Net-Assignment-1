@@ -1,0 +1,14 @@
+CUST_LNAME	CUST_FNAME	INV_NUMBER	
+Ramas	Alfred		
+Dunne	Leona	1002	
+Dunne	Leona	1004	
+Dunne	Leona	1008	
+Smith	Kathy	1003	
+Olowski	Paul		
+Orlando	Myron	1001	
+Orlando	Myron	1006	
+O'Brian	Amy	1007	
+Brown	James		
+Williams	George		
+Farriss	Anne	1005	
+Smith	Olette		
