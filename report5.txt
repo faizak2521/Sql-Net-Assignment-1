@@ -1,14 +1,7 @@
-CUST_LNAME	CUST_FNAME	INV_NUMBER	
-Ramas	Alfred		
-Dunne	Leona	1002	
-Dunne	Leona	1004	
-Dunne	Leona	1008	
-Smith	Kathy	1003	
-Olowski	Paul		
-Orlando	Myron	1001	
-Orlando	Myron	1006	
-O'Brian	Amy	1007	
-Brown	James		
-Williams	George		
-Farriss	Anne	1005	
-Smith	Olette		
+PROD_CODE         PROD_DESCRIPT                      PROD_INDATE       PROD_QOH          
+11QER/31          Power painter, 15 psi., 3-nozzle   03-Nov-21         8                 
+14-Q1/L3          9.00-in. pwr. saw blade            13-Nov-21         18                
+1558-QW1          Hrd. cloth, 1/2-in., 3x50          15-Jan-22         23                
+2232/QWE          B&D jigsaw, 8-in. blade            24-Dec-21         6                 
+23114-AA          Sledge hammer, 12 lb.              02-Jan-22         8                 
+SW-23116          2.5-in. wd. screw, 50              24-Feb-22         237               

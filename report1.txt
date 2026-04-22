@@ -1,9 +1,11 @@
-INV_NUMBER	INV_DATE	CUST_LNAME	CUST_FNAME	
-1001	2022-01-16	Orlando	Myron	
-1002	2022-01-16	Dunne	Leona	
-1003	2022-01-16	Smith	Kathy	
-1004	2022-01-17	Dunne	Leona	
-1005	2022-01-17	Farriss	Anne	
-1006	2022-01-17	Orlando	Myron	
-1007	2022-01-17	O'Brian	Amy	
-1008	2022-01-17	Dunne	Leona	
+CUST_CODE         CUST_FNAME        CUST_LNAME        INV_NUMBER        TOTAL             
+10011             Leona             Dunne             1002              4.99              
+10011             Leona             Dunne             1004              24.89             
+10011             Leona             Dunne             1008              275.62            
+10012             Kathy             Smith             1003              163.82            
+10014             Myron             Orlando           1001              34.89             
+10014             Myron             Orlando           1006              1284.64           
+10015             Amy               O'Brian           1007              24.97             
+10018             Anne              Farriss           1005              5.87              
+
+TOTALS              1819.69

@@ -1,17 +1,12 @@
-PROD_CODE	PROD_DESCRIPT	VEND_NAME	
-11QER/31	Power painter, 15 psi., 3-nozzle	Rubicon Systems	
-13-Q2/P2	7.25-in. pwr. saw blade	Gomez Bros.	
-14-Q1/L3	9.00-in. pwr. saw blade	Gomez Bros.	
-1546-QQ2	Hrd. cloth, 1/4-in., 2x50	Randsets Ltd.	
-1558-QW1	Hrd. cloth, 1/2-in., 3x50	Randsets Ltd.	
-2232/QTY	B&D jigsaw, 12-in. blade	ORDVA, Inc.	
-2232/QWE	B&D jigsaw, 8-in. blade	ORDVA, Inc.	
-2238/QPD	B&D cordless drill, 1/2-in.	Rubicon Systems	
-23109-HB	Claw hammer	Bryson, Inc.	
-23114-AA	Sledge hammer, 12 lb.		
-54778-2T	Rat-tail file, 1/8-in. fine	Gomez Bros.	
-89-WRE-Q	Hicut chain saw, 16 in.	ORDVA, Inc.	
-PVC23DRT	PVC pipe, 3.5-in., 8-ft		
-SM-18277	1.25-in. metal screw, 25	Bryson, Inc.	
-SW-23116	2.5-in. wd. screw, 50	D&E Supply	
-WR3/TT3	Steel matting, 4'x8'x1/6", .5" mesh	Rubicon Systems	
+INV_NUMBER        LINE_NUMBER       PROD_CODE         PROD_DESCRIPT                      LINE_UNITS        LINE_PRICE        LINE_TOTAL        
+1002              1                 54778-2T          Rat-tail file, 1/8-in. fine        2                 4.99              9.98              
+1004              1                 54778-2T          Rat-tail file, 1/8-in. fine        3                 4.99              14.97             
+1004              2                 23109-HB          Claw hammer                        2                 9.95              19.90             
+1008              1                 PVC23DRT          PVC pipe, 3.5-in., 8-ft            5                 5.87              29.35             
+1008              2                 WR3/TT3           Steel matting, 4'x8'x1/6", .5" mesh3                 119.95            359.85            
+1008              3                 23109-HB          Claw hammer                        1                 9.95              9.95              
+
+TOTALS:
+Units: 16.00
+Price: 155.70
+Total: 444.00
